@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: 7bf01e58016e5f545834f1e907d7f0d6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: All
+    100002: back
+    100004: backWheel
+    100006: bike_001
+    100008: bikeArmature
+    100010: //RootNode
+    100012: body
+    100014: Camera
+    100016: front
+    100018: frontWheel
+    400000: All
+    400002: back
+    400004: backWheel
+    400006: bike_001
+    400008: bikeArmature
+    400010: //RootNode
+    400012: body
+    400014: Camera
+    400016: front
+    400018: frontWheel
+    4300000: bike_001
+    7400000: centre
+    7400002: death
+    7400004: death2
+    7400006: LeftHard
+    7400008: LeftMedium
+    7400010: LeftSoft
+    7400012: RightHard
+    7400014: RightMedium
+    7400016: RightSoft
+    7400018: Still
+    7400020: stumble1_1
+    7400022: stumble2_1
+    7400024: turnRight
+    7400026: WheelSpin
+    9500000: //RootNode
+    13700000: bike_001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: centre
+      takeName: centre
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: death
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death2
+      takeName: death2
+      firstFrame: -1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftHard
+      takeName: LeftHard
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftMedium
+      takeName: LeftMedium
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftSoft
+      takeName: LeftSoft
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RightHard
+      takeName: RightHard
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RightMedium
+      takeName: RightMedium
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RightSoft
+      takeName: RightSoft
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Still
+      takeName: Still
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: stumble1_1
+      takeName: stumble1_1
+      firstFrame: -1
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: stumble2_1
+      takeName: stumble2_1
+      firstFrame: -1
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: turnRight
+      takeName: turnRight
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WheelSpin
+      takeName: WheelSpin
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bike_001
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/back
+        weight: 1
+      - path: bikeArmature/All/back/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,1831 @@
+fileFormatVersion: 2
+guid: 78ad01de5b60a6442b4e2d81f99258e9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CON_foot_L
+    100002: CON_foot_main_L
+    100004: CON_foot_main_R
+    100006: CON_foot_R
+    100008: CON_knee_L
+    100010: CON_knee_R
+    100012: //RootNode
+    100014: eye_L
+    100016: eye_R
+    100018: finger_index_01_L
+    100020: finger_index_01_R
+    100022: finger_index_02_L
+    100024: finger_index_02_R
+    100026: finger_index_03_L
+    100028: finger_index_03_R
+    100030: finger_middle_01_L
+    100032: finger_middle_01_R
+    100034: finger_middle_02_L
+    100036: finger_middle_02_R
+    100038: finger_middle_03_L
+    100040: finger_middle_03_R
+    100042: finger_pinky_01_L
+    100044: finger_pinky_01_R
+    100046: finger_pinky_02_L
+    100048: finger_pinky_02_R
+    100050: finger_pinky_03_L
+    100052: finger_pinky_03_R
+    100054: finger_ring_01_L
+    100056: finger_ring_01_R
+    100058: finger_ring_02_L
+    100060: finger_ring_02_R
+    100062: finger_ring_03_L
+    100064: finger_ring_03_R
+    100066: foot_L
+    100068: foot_R
+    100070: forearm_L
+    100072: forearm_R
+    100074: forearm_twist1_L
+    100076: forearm_twist1_R
+    100078: forearm_twist2_L
+    100080: forearm_twist2_R
+    100082: hand_L
+    100084: hand_R
+    100086: head
+    100088: hips
+    100090: IK_arm_L
+    100092: IK_arm_R
+    100094: IK_elbow_L
+    100096: IK_elbow_R
+    100098: jaw
+    100100: main
+    100102: neck
+    100104: palm_01_L
+    100106: palm_01_R
+    100108: palm_02_L
+    100110: palm_02_R
+    100112: palm_03_L
+    100114: palm_03_R
+    100116: palm_04_L
+    100118: palm_04_R
+    100120: pc_rig
+    100122: Plane_001
+    100124: ribs
+    100126: roll_front_L
+    100128: roll_front_R
+    100130: roll_main_L
+    100132: roll_main_R
+    100134: roll_rear_L
+    100136: roll_rear_R
+    100138: shin_L
+    100140: shin_R
+    100142: shoulder_L
+    100144: shoulder_R
+    100146: spine
+    100148: thigh_L
+    100150: thigh_R
+    100152: thumb_01_L
+    100154: thumb_01_R
+    100156: thumb_02_L
+    100158: thumb_02_R
+    100160: thumb_03_L
+    100162: thumb_03_R
+    100164: toe_L
+    100166: toe_R
+    100168: upper_arm_L
+    100170: upper_arm_R
+    100172: Camera
+    400000: CON_foot_L
+    400002: CON_foot_main_L
+    400004: CON_foot_main_R
+    400006: CON_foot_R
+    400008: CON_knee_L
+    400010: CON_knee_R
+    400012: //RootNode
+    400014: eye_L
+    400016: eye_R
+    400018: finger_index_01_L
+    400020: finger_index_01_R
+    400022: finger_index_02_L
+    400024: finger_index_02_R
+    400026: finger_index_03_L
+    400028: finger_index_03_R
+    400030: finger_middle_01_L
+    400032: finger_middle_01_R
+    400034: finger_middle_02_L
+    400036: finger_middle_02_R
+    400038: finger_middle_03_L
+    400040: finger_middle_03_R
+    400042: finger_pinky_01_L
+    400044: finger_pinky_01_R
+    400046: finger_pinky_02_L
+    400048: finger_pinky_02_R
+    400050: finger_pinky_03_L
+    400052: finger_pinky_03_R
+    400054: finger_ring_01_L
+    400056: finger_ring_01_R
+    400058: finger_ring_02_L
+    400060: finger_ring_02_R
+    400062: finger_ring_03_L
+    400064: finger_ring_03_R
+    400066: foot_L
+    400068: foot_R
+    400070: forearm_L
+    400072: forearm_R
+    400074: forearm_twist1_L
+    400076: forearm_twist1_R
+    400078: forearm_twist2_L
+    400080: forearm_twist2_R
+    400082: hand_L
+    400084: hand_R
+    400086: head
+    400088: hips
+    400090: IK_arm_L
+    400092: IK_arm_R
+    400094: IK_elbow_L
+    400096: IK_elbow_R
+    400098: jaw
+    400100: main
+    400102: neck
+    400104: palm_01_L
+    400106: palm_01_R
+    400108: palm_02_L
+    400110: palm_02_R
+    400112: palm_03_L
+    400114: palm_03_R
+    400116: palm_04_L
+    400118: palm_04_R
+    400120: pc_rig
+    400122: Plane_001
+    400124: ribs
+    400126: roll_front_L
+    400128: roll_front_R
+    400130: roll_main_L
+    400132: roll_main_R
+    400134: roll_rear_L
+    400136: roll_rear_R
+    400138: shin_L
+    400140: shin_R
+    400142: shoulder_L
+    400144: shoulder_R
+    400146: spine
+    400148: thigh_L
+    400150: thigh_R
+    400152: thumb_01_L
+    400154: thumb_01_R
+    400156: thumb_02_L
+    400158: thumb_02_R
+    400160: thumb_03_L
+    400162: thumb_03_R
+    400164: toe_L
+    400166: toe_R
+    400168: upper_arm_L
+    400170: upper_arm_R
+    400172: Camera
+    2300000: Plane_001
+    3300000: Plane_001
+    4300000: Plane_001
+    7400000: Default Take
+    7400002: centre
+    7400004: LeftHard
+    7400006: LeftMedium
+    7400008: LeftSoft
+    7400010: RightHard
+    7400012: RightMedium
+    7400014: RightSoft
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane_001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pc_rig
+        weight: 1
+      - path: pc_rig/CON_foot_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/CON_knee_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L/CON_foot_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/CON_knee_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R/CON_foot_R
+        weight: 0
+      - path: pc_rig/IK_arm_L
+        weight: 0
+      - path: pc_rig/IK_arm_L/IK_elbow_L
+        weight: 0
+      - path: pc_rig/IK_arm_R
+        weight: 0
+      - path: pc_rig/IK_arm_R/IK_elbow_R
+        weight: 0
+      - path: pc_rig/main
+        weight: 1
+      - path: pc_rig/main/hips
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: pc_rig/main/spine
+        weight: 1
+      - path: pc_rig/main/spine/ribs
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head/eye_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/eye_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/jaw
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L/finger_index_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L/finger_middle_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L/finger_ring_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L/finger_pinky_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L/forearm_twist2_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R/finger_index_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R/finger_middle_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R/finger_ring_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R/finger_pinky_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R/forearm_twist2_R
+        weight: 0
+      - path: Plane_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: centre
+      takeName: centre
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pc_rig
+        weight: 1
+      - path: pc_rig/CON_foot_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/CON_knee_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L/CON_foot_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/CON_knee_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R/CON_foot_R
+        weight: 0
+      - path: pc_rig/IK_arm_L
+        weight: 0
+      - path: pc_rig/IK_arm_L/IK_elbow_L
+        weight: 0
+      - path: pc_rig/IK_arm_R
+        weight: 0
+      - path: pc_rig/IK_arm_R/IK_elbow_R
+        weight: 0
+      - path: pc_rig/main
+        weight: 1
+      - path: pc_rig/main/hips
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: pc_rig/main/spine
+        weight: 1
+      - path: pc_rig/main/spine/ribs
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head/eye_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/eye_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/jaw
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L/finger_index_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L/finger_middle_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L/finger_ring_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L/finger_pinky_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L/forearm_twist2_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R/finger_index_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R/finger_middle_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R/finger_ring_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R/finger_pinky_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R/forearm_twist2_R
+        weight: 0
+      - path: Plane_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftHard
+      takeName: LeftHard
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pc_rig
+        weight: 1
+      - path: pc_rig/CON_foot_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/CON_knee_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L/CON_foot_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/CON_knee_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R/CON_foot_R
+        weight: 0
+      - path: pc_rig/IK_arm_L
+        weight: 0
+      - path: pc_rig/IK_arm_L/IK_elbow_L
+        weight: 0
+      - path: pc_rig/IK_arm_R
+        weight: 0
+      - path: pc_rig/IK_arm_R/IK_elbow_R
+        weight: 0
+      - path: pc_rig/main
+        weight: 1
+      - path: pc_rig/main/hips
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: pc_rig/main/spine
+        weight: 1
+      - path: pc_rig/main/spine/ribs
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head/eye_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/eye_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/jaw
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L/finger_index_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L/finger_middle_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L/finger_ring_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L/finger_pinky_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L/forearm_twist2_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R/finger_index_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R/finger_middle_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R/finger_ring_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R/finger_pinky_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R/forearm_twist2_R
+        weight: 0
+      - path: Plane_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftMedium
+      takeName: LeftMedium
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pc_rig
+        weight: 1
+      - path: pc_rig/CON_foot_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/CON_knee_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L/CON_foot_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/CON_knee_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R/CON_foot_R
+        weight: 0
+      - path: pc_rig/IK_arm_L
+        weight: 0
+      - path: pc_rig/IK_arm_L/IK_elbow_L
+        weight: 0
+      - path: pc_rig/IK_arm_R
+        weight: 0
+      - path: pc_rig/IK_arm_R/IK_elbow_R
+        weight: 0
+      - path: pc_rig/main
+        weight: 1
+      - path: pc_rig/main/hips
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: pc_rig/main/spine
+        weight: 1
+      - path: pc_rig/main/spine/ribs
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head/eye_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/eye_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/jaw
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L/finger_index_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L/finger_middle_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L/finger_ring_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L/finger_pinky_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L/forearm_twist2_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R/finger_index_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R/finger_middle_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R/finger_ring_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R/finger_pinky_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R/forearm_twist2_R
+        weight: 0
+      - path: Plane_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftSoft
+      takeName: LeftSoft
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pc_rig
+        weight: 1
+      - path: pc_rig/CON_foot_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/CON_knee_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L/CON_foot_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/CON_knee_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R/CON_foot_R
+        weight: 0
+      - path: pc_rig/IK_arm_L
+        weight: 0
+      - path: pc_rig/IK_arm_L/IK_elbow_L
+        weight: 0
+      - path: pc_rig/IK_arm_R
+        weight: 0
+      - path: pc_rig/IK_arm_R/IK_elbow_R
+        weight: 0
+      - path: pc_rig/main
+        weight: 1
+      - path: pc_rig/main/hips
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: pc_rig/main/spine
+        weight: 1
+      - path: pc_rig/main/spine/ribs
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head/eye_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/eye_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/jaw
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L/finger_index_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L/finger_middle_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L/finger_ring_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L/finger_pinky_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L/forearm_twist2_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R/finger_index_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R/finger_middle_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R/finger_ring_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R/finger_pinky_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R/forearm_twist2_R
+        weight: 0
+      - path: Plane_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RightHard
+      takeName: RightHard
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pc_rig
+        weight: 1
+      - path: pc_rig/CON_foot_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/CON_knee_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L/CON_foot_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/CON_knee_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R/CON_foot_R
+        weight: 0
+      - path: pc_rig/IK_arm_L
+        weight: 0
+      - path: pc_rig/IK_arm_L/IK_elbow_L
+        weight: 0
+      - path: pc_rig/IK_arm_R
+        weight: 0
+      - path: pc_rig/IK_arm_R/IK_elbow_R
+        weight: 0
+      - path: pc_rig/main
+        weight: 1
+      - path: pc_rig/main/hips
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: pc_rig/main/spine
+        weight: 1
+      - path: pc_rig/main/spine/ribs
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head/eye_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/eye_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/jaw
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L/finger_index_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L/finger_middle_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L/finger_ring_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L/finger_pinky_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L/forearm_twist2_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R/finger_index_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R/finger_middle_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R/finger_ring_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R/finger_pinky_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R/forearm_twist2_R
+        weight: 0
+      - path: Plane_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RightMedium
+      takeName: RightMedium
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pc_rig
+        weight: 1
+      - path: pc_rig/CON_foot_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/CON_knee_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L/CON_foot_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/CON_knee_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R/CON_foot_R
+        weight: 0
+      - path: pc_rig/IK_arm_L
+        weight: 0
+      - path: pc_rig/IK_arm_L/IK_elbow_L
+        weight: 0
+      - path: pc_rig/IK_arm_R
+        weight: 0
+      - path: pc_rig/IK_arm_R/IK_elbow_R
+        weight: 0
+      - path: pc_rig/main
+        weight: 1
+      - path: pc_rig/main/hips
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: pc_rig/main/spine
+        weight: 1
+      - path: pc_rig/main/spine/ribs
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head/eye_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/eye_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/jaw
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L/finger_index_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L/finger_middle_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L/finger_ring_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L/finger_pinky_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L/forearm_twist2_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R/finger_index_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R/finger_middle_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R/finger_ring_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R/finger_pinky_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R/forearm_twist2_R
+        weight: 0
+      - path: Plane_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RightSoft
+      takeName: RightSoft
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pc_rig
+        weight: 1
+      - path: pc_rig/CON_foot_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/CON_knee_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_main_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_L/roll_rear_L/roll_front_L/CON_foot_L
+        weight: 0
+      - path: pc_rig/CON_foot_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/CON_knee_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_main_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R
+        weight: 0
+      - path: pc_rig/CON_foot_main_R/roll_rear_R/roll_front_R/CON_foot_R
+        weight: 0
+      - path: pc_rig/IK_arm_L
+        weight: 0
+      - path: pc_rig/IK_arm_L/IK_elbow_L
+        weight: 0
+      - path: pc_rig/IK_arm_R
+        weight: 0
+      - path: pc_rig/IK_arm_R/IK_elbow_R
+        weight: 0
+      - path: pc_rig/main
+        weight: 1
+      - path: pc_rig/main/hips
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: pc_rig/main/hips/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: pc_rig/main/spine
+        weight: 1
+      - path: pc_rig/main/spine/ribs
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head
+        weight: 1
+      - path: pc_rig/main/spine/ribs/neck/head/eye_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/eye_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/neck/head/jaw
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/finger_index_01_L/finger_index_02_L/finger_index_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_01_L/thumb_01_L/thumb_02_L/thumb_03_L
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_02_L/finger_middle_01_L/finger_middle_02_L/finger_middle_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_03_L/finger_ring_01_L/finger_ring_02_L/finger_ring_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_L/hand_L/palm_04_L/finger_pinky_01_L/finger_pinky_02_L/finger_pinky_03_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_L/upper_arm_L/forearm_twist1_L/forearm_twist2_L
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/finger_index_01_R/finger_index_02_R/finger_index_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_01_R/thumb_01_R/thumb_02_R/thumb_03_R
+        weight: 1
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_02_R/finger_middle_01_R/finger_middle_02_R/finger_middle_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_03_R/finger_ring_01_R/finger_ring_02_R/finger_ring_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_R/hand_R/palm_04_R/finger_pinky_01_R/finger_pinky_02_R/finger_pinky_03_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R
+        weight: 0
+      - path: pc_rig/main/spine/ribs/shoulder_R/upper_arm_R/forearm_twist1_R/forearm_twist2_R
+        weight: 0
+      - path: Plane_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

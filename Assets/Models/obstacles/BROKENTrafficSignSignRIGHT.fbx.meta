@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 366a3096e97733c458c11353b3ea78eb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SignRight_003
+    100004: SignRight_007
+    100006: SignRight_008
+    100008: SignRight_009
+    100010: SignRight_010
+    100012: SignRight_011
+    100014: SignRight_021
+    100016: SignRight_022
+    100018: SignRight_023
+    400000: //RootNode
+    400002: SignRight_003
+    400004: SignRight_007
+    400006: SignRight_008
+    400008: SignRight_009
+    400010: SignRight_010
+    400012: SignRight_011
+    400014: SignRight_021
+    400016: SignRight_022
+    400018: SignRight_023
+    2300000: SignRight_003
+    2300002: SignRight_007
+    2300004: SignRight_008
+    2300006: SignRight_009
+    2300008: SignRight_010
+    2300010: SignRight_011
+    2300012: SignRight_021
+    2300014: SignRight_022
+    2300016: SignRight_023
+    3300000: SignRight_003
+    3300002: SignRight_007
+    3300004: SignRight_008
+    3300006: SignRight_009
+    3300008: SignRight_010
+    3300010: SignRight_011
+    3300012: SignRight_021
+    3300014: SignRight_022
+    3300016: SignRight_023
+    4300000: SignRight_023
+    4300002: SignRight_022
+    4300004: SignRight_021
+    4300006: SignRight_011
+    4300008: SignRight_010
+    4300010: SignRight_009
+    4300012: SignRight_008
+    4300014: SignRight_007
+    4300016: SignRight_003
+    6400000: SignRight_003
+    6400002: SignRight_007
+    6400004: SignRight_008
+    6400006: SignRight_009
+    6400008: SignRight_010
+    6400010: SignRight_011
+    6400012: SignRight_021
+    6400014: SignRight_022
+    6400016: SignRight_023
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

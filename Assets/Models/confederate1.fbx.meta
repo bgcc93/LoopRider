@@ -1,0 +1,1386 @@
+fileFormatVersion: 2
+guid: 3220518e59d8555408728fd37596b9dd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: All
+    100002: backWheel
+    100004: bikeArmature
+    100006: body
+    100008: Camera
+    100010: //RootNode
+    100012: Cube_020
+    100014: front
+    100016: frontWheel
+    100018: CON_foot_L
+    100020: CON_foot_main_L
+    100022: CON_foot_main_R
+    100024: CON_foot_R
+    100026: CON_knee_L
+    100028: CON_knee_R
+    100030: eye_L
+    100032: eye_R
+    100034: finger_index_01_L
+    100036: finger_index_01_R
+    100038: finger_index_02_L
+    100040: finger_index_02_R
+    100042: finger_index_03_L
+    100044: finger_index_03_R
+    100046: finger_middle_01_L
+    100048: finger_middle_01_R
+    100050: finger_middle_02_L
+    100052: finger_middle_02_R
+    100054: finger_middle_03_L
+    100056: finger_middle_03_R
+    100058: finger_pinky_01_L
+    100060: finger_pinky_01_R
+    100062: finger_pinky_02_L
+    100064: finger_pinky_02_R
+    100066: finger_pinky_03_L
+    100068: finger_pinky_03_R
+    100070: finger_ring_01_L
+    100072: finger_ring_01_R
+    100074: finger_ring_02_L
+    100076: finger_ring_02_R
+    100078: finger_ring_03_L
+    100080: finger_ring_03_R
+    100082: foot_L
+    100084: foot_R
+    100086: forearm_L
+    100088: forearm_R
+    100090: forearm_twist1_L
+    100092: forearm_twist1_R
+    100094: forearm_twist2_L
+    100096: forearm_twist2_R
+    100098: hand_L
+    100100: hand_R
+    100102: head
+    100104: hips
+    100106: IK_arm_L
+    100108: IK_arm_R
+    100110: IK_elbow_L
+    100112: IK_elbow_R
+    100114: jaw
+    100116: main
+    100118: neck
+    100120: palm_01_L
+    100122: palm_01_R
+    100124: palm_02_L
+    100126: palm_02_R
+    100128: palm_03_L
+    100130: palm_03_R
+    100132: palm_04_L
+    100134: palm_04_R
+    100136: pc_rig
+    100138: Plane_001
+    100140: ribs
+    100142: roll_front_L
+    100144: roll_front_R
+    100146: roll_main_L
+    100148: roll_main_R
+    100150: roll_rear_L
+    100152: roll_rear_R
+    100154: shin_L
+    100156: shin_R
+    100158: shoulder_L
+    100160: shoulder_R
+    100162: spine
+    100164: thigh_L
+    100166: thigh_R
+    100168: thumb_01_L
+    100170: thumb_01_R
+    100172: thumb_02_L
+    100174: thumb_02_R
+    100176: thumb_03_L
+    100178: thumb_03_R
+    100180: toe_L
+    100182: toe_R
+    100184: upper_arm_L
+    100186: upper_arm_R
+    100188: BezierCurve
+    100190: BezierCurve_001
+    100192: BezierCurve_002
+    100194: BezierCurve_003
+    100196: BezierCurve_006
+    100198: BezierCurve_007
+    100200: Circle_002
+    100202: confederate
+    100204: confMatSetup
+    100206: Cube
+    100208: Cube_001
+    100210: Cube_002
+    100212: Cube_003
+    100214: Cube_004
+    100216: Cube_005
+    100218: Cube_006
+    100220: Cube_007
+    100222: Cube_008
+    100224: Cube_009
+    100226: Cube_010
+    100228: Cube_011
+    100230: Cube_012
+    100232: Cube_013
+    100234: Cube_014
+    100236: Cube_015
+    100238: Cube_016
+    100240: Cube_017
+    100242: Cube_018
+    100244: Cube_019
+    100246: Cube_021
+    100248: Cube_022
+    100250: Cube_023
+    100252: Cube_024
+    100254: Cube_026
+    100256: Cube_027
+    100258: Cube_028
+    100260: Cube_040
+    100262: Cube_041
+    100264: Cube_042
+    100266: Cube_043
+    100268: Cube_044
+    100270: Cube_045
+    100272: Cube_046
+    100274: Cube_047
+    100276: Cube_048
+    100278: Cube_049
+    100280: Cylinder
+    100282: Cylinder_001
+    100284: Cylinder_002
+    100286: Cylinder_003
+    100288: Cylinder_004
+    100290: Cylinder_005
+    100292: Cylinder_006
+    100294: Cylinder_007
+    100296: Cylinder_008
+    100298: Cylinder_009
+    100300: Cylinder_010
+    100302: Cylinder_011
+    100304: Cylinder_012
+    100306: Cylinder_013
+    100308: Cylinder_015
+    100310: Cylinder_016
+    100312: Cylinder_017
+    100314: Cylinder_018
+    100316: Cylinder_019
+    100318: Cylinder_020
+    100320: Cylinder_021
+    100322: Cylinder_022
+    100324: Cylinder_023
+    100326: Cylinder_024
+    100328: Cylinder_025
+    100330: Cylinder_026
+    100332: Cylinder_027
+    100334: Cylinder_028
+    100336: Cylinder_029
+    100338: Cylinder_031
+    100340: Cylinder_032
+    100342: Cylinder_033
+    100344: Cylinder_034
+    100346: Cylinder_035
+    100348: Cylinder_036
+    100350: Cylinder_037
+    100352: Cylinder_038
+    100354: Cylinder_039
+    100356: Cylinder_040
+    100358: Cylinder_041
+    100360: Cylinder_042
+    100362: Cylinder_044
+    100364: Cylinder_105
+    100366: Cylinder_106
+    100368: Cylinder_107
+    100370: Cylinder_108
+    100372: Cylinder_109
+    100374: Cylinder_110
+    100376: Cylinder_111
+    100378: Cylinder_112
+    100380: Cylinder_113
+    100382: Cylinder_114
+    100384: Cylinder_115
+    100386: Cylinder_116
+    100388: Cylinder_117
+    100390: Cylinder_118
+    100392: Cylinder_119
+    100394: Cylinder_120
+    100396: Cylinder_121
+    100398: Cylinder_122
+    100400: Cylinder_123
+    100402: Plane
+    100404: Plane_002
+    400000: All
+    400002: backWheel
+    400004: bikeArmature
+    400006: body
+    400008: Camera
+    400010: //RootNode
+    400012: Cube_020
+    400014: front
+    400016: frontWheel
+    400018: CON_foot_L
+    400020: CON_foot_main_L
+    400022: CON_foot_main_R
+    400024: CON_foot_R
+    400026: CON_knee_L
+    400028: CON_knee_R
+    400030: eye_L
+    400032: eye_R
+    400034: finger_index_01_L
+    400036: finger_index_01_R
+    400038: finger_index_02_L
+    400040: finger_index_02_R
+    400042: finger_index_03_L
+    400044: finger_index_03_R
+    400046: finger_middle_01_L
+    400048: finger_middle_01_R
+    400050: finger_middle_02_L
+    400052: finger_middle_02_R
+    400054: finger_middle_03_L
+    400056: finger_middle_03_R
+    400058: finger_pinky_01_L
+    400060: finger_pinky_01_R
+    400062: finger_pinky_02_L
+    400064: finger_pinky_02_R
+    400066: finger_pinky_03_L
+    400068: finger_pinky_03_R
+    400070: finger_ring_01_L
+    400072: finger_ring_01_R
+    400074: finger_ring_02_L
+    400076: finger_ring_02_R
+    400078: finger_ring_03_L
+    400080: finger_ring_03_R
+    400082: foot_L
+    400084: foot_R
+    400086: forearm_L
+    400088: forearm_R
+    400090: forearm_twist1_L
+    400092: forearm_twist1_R
+    400094: forearm_twist2_L
+    400096: forearm_twist2_R
+    400098: hand_L
+    400100: hand_R
+    400102: head
+    400104: hips
+    400106: IK_arm_L
+    400108: IK_arm_R
+    400110: IK_elbow_L
+    400112: IK_elbow_R
+    400114: jaw
+    400116: main
+    400118: neck
+    400120: palm_01_L
+    400122: palm_01_R
+    400124: palm_02_L
+    400126: palm_02_R
+    400128: palm_03_L
+    400130: palm_03_R
+    400132: palm_04_L
+    400134: palm_04_R
+    400136: pc_rig
+    400138: Plane_001
+    400140: ribs
+    400142: roll_front_L
+    400144: roll_front_R
+    400146: roll_main_L
+    400148: roll_main_R
+    400150: roll_rear_L
+    400152: roll_rear_R
+    400154: shin_L
+    400156: shin_R
+    400158: shoulder_L
+    400160: shoulder_R
+    400162: spine
+    400164: thigh_L
+    400166: thigh_R
+    400168: thumb_01_L
+    400170: thumb_01_R
+    400172: thumb_02_L
+    400174: thumb_02_R
+    400176: thumb_03_L
+    400178: thumb_03_R
+    400180: toe_L
+    400182: toe_R
+    400184: upper_arm_L
+    400186: upper_arm_R
+    400188: BezierCurve
+    400190: BezierCurve_001
+    400192: BezierCurve_002
+    400194: BezierCurve_003
+    400196: BezierCurve_006
+    400198: BezierCurve_007
+    400200: Circle_002
+    400202: confederate
+    400204: confMatSetup
+    400206: Cube
+    400208: Cube_001
+    400210: Cube_002
+    400212: Cube_003
+    400214: Cube_004
+    400216: Cube_005
+    400218: Cube_006
+    400220: Cube_007
+    400222: Cube_008
+    400224: Cube_009
+    400226: Cube_010
+    400228: Cube_011
+    400230: Cube_012
+    400232: Cube_013
+    400234: Cube_014
+    400236: Cube_015
+    400238: Cube_016
+    400240: Cube_017
+    400242: Cube_018
+    400244: Cube_019
+    400246: Cube_021
+    400248: Cube_022
+    400250: Cube_023
+    400252: Cube_024
+    400254: Cube_026
+    400256: Cube_027
+    400258: Cube_028
+    400260: Cube_040
+    400262: Cube_041
+    400264: Cube_042
+    400266: Cube_043
+    400268: Cube_044
+    400270: Cube_045
+    400272: Cube_046
+    400274: Cube_047
+    400276: Cube_048
+    400278: Cube_049
+    400280: Cylinder
+    400282: Cylinder_001
+    400284: Cylinder_002
+    400286: Cylinder_003
+    400288: Cylinder_004
+    400290: Cylinder_005
+    400292: Cylinder_006
+    400294: Cylinder_007
+    400296: Cylinder_008
+    400298: Cylinder_009
+    400300: Cylinder_010
+    400302: Cylinder_011
+    400304: Cylinder_012
+    400306: Cylinder_013
+    400308: Cylinder_015
+    400310: Cylinder_016
+    400312: Cylinder_017
+    400314: Cylinder_018
+    400316: Cylinder_019
+    400318: Cylinder_020
+    400320: Cylinder_021
+    400322: Cylinder_022
+    400324: Cylinder_023
+    400326: Cylinder_024
+    400328: Cylinder_025
+    400330: Cylinder_026
+    400332: Cylinder_027
+    400334: Cylinder_028
+    400336: Cylinder_029
+    400338: Cylinder_031
+    400340: Cylinder_032
+    400342: Cylinder_033
+    400344: Cylinder_034
+    400346: Cylinder_035
+    400348: Cylinder_036
+    400350: Cylinder_037
+    400352: Cylinder_038
+    400354: Cylinder_039
+    400356: Cylinder_040
+    400358: Cylinder_041
+    400360: Cylinder_042
+    400362: Cylinder_044
+    400364: Cylinder_105
+    400366: Cylinder_106
+    400368: Cylinder_107
+    400370: Cylinder_108
+    400372: Cylinder_109
+    400374: Cylinder_110
+    400376: Cylinder_111
+    400378: Cylinder_112
+    400380: Cylinder_113
+    400382: Cylinder_114
+    400384: Cylinder_115
+    400386: Cylinder_116
+    400388: Cylinder_117
+    400390: Cylinder_118
+    400392: Cylinder_119
+    400394: Cylinder_120
+    400396: Cylinder_121
+    400398: Cylinder_122
+    400400: Cylinder_123
+    400402: Plane
+    400404: Plane_002
+    2300000: Cube_020
+    2300002: Plane_001
+    2300004: BezierCurve
+    2300006: BezierCurve_001
+    2300008: BezierCurve_002
+    2300010: BezierCurve_003
+    2300012: BezierCurve_006
+    2300014: BezierCurve_007
+    2300016: Circle_002
+    2300018: Cube
+    2300020: Cube_001
+    2300022: Cube_002
+    2300024: Cube_003
+    2300026: Cube_004
+    2300028: Cube_005
+    2300030: Cube_006
+    2300032: Cube_007
+    2300034: Cube_008
+    2300036: Cube_009
+    2300038: Cube_010
+    2300040: Cube_011
+    2300042: Cube_012
+    2300044: Cube_013
+    2300046: Cube_014
+    2300048: Cube_015
+    2300050: Cube_016
+    2300052: Cube_017
+    2300054: Cube_018
+    2300056: Cube_019
+    2300058: Cube_021
+    2300060: Cube_022
+    2300062: Cube_023
+    2300064: Cube_024
+    2300066: Cube_026
+    2300068: Cube_027
+    2300070: Cube_028
+    2300072: Cube_040
+    2300074: Cube_041
+    2300076: Cube_042
+    2300078: Cube_043
+    2300080: Cube_044
+    2300082: Cube_045
+    2300084: Cube_046
+    2300086: Cube_047
+    2300088: Cube_048
+    2300090: Cube_049
+    2300092: Cylinder
+    2300094: Cylinder_001
+    2300096: Cylinder_002
+    2300098: Cylinder_003
+    2300100: Cylinder_004
+    2300102: Cylinder_005
+    2300104: Cylinder_006
+    2300106: Cylinder_007
+    2300108: Cylinder_008
+    2300110: Cylinder_009
+    2300112: Cylinder_010
+    2300114: Cylinder_011
+    2300116: Cylinder_012
+    2300118: Cylinder_013
+    2300120: Cylinder_015
+    2300122: Cylinder_016
+    2300124: Cylinder_017
+    2300126: Cylinder_018
+    2300128: Cylinder_019
+    2300130: Cylinder_020
+    2300132: Cylinder_021
+    2300134: Cylinder_022
+    2300136: Cylinder_023
+    2300138: Cylinder_024
+    2300140: Cylinder_025
+    2300142: Cylinder_026
+    2300144: Cylinder_027
+    2300146: Cylinder_028
+    2300148: Cylinder_029
+    2300150: Cylinder_031
+    2300152: Cylinder_033
+    2300154: Cylinder_034
+    2300156: Cylinder_035
+    2300158: Cylinder_036
+    2300160: Cylinder_037
+    2300162: Cylinder_038
+    2300164: Cylinder_039
+    2300166: Cylinder_040
+    2300168: Cylinder_041
+    2300170: Cylinder_042
+    2300172: Cylinder_044
+    2300174: Cylinder_105
+    2300176: Cylinder_106
+    2300178: Cylinder_107
+    2300180: Cylinder_108
+    2300182: Cylinder_109
+    2300184: Cylinder_110
+    2300186: Cylinder_111
+    2300188: Cylinder_112
+    2300190: Cylinder_113
+    2300192: Cylinder_114
+    2300194: Cylinder_115
+    2300196: Cylinder_116
+    2300198: Cylinder_117
+    2300200: Cylinder_118
+    2300202: Cylinder_119
+    2300204: Cylinder_120
+    2300206: Cylinder_121
+    2300208: Cylinder_122
+    2300210: Cylinder_123
+    2300212: Plane
+    2300214: Plane_002
+    2300216: confederate
+    3300000: Cube_020
+    3300002: Plane_001
+    3300004: BezierCurve
+    3300006: BezierCurve_001
+    3300008: BezierCurve_002
+    3300010: BezierCurve_003
+    3300012: BezierCurve_006
+    3300014: BezierCurve_007
+    3300016: Circle_002
+    3300018: Cube
+    3300020: Cube_001
+    3300022: Cube_002
+    3300024: Cube_003
+    3300026: Cube_004
+    3300028: Cube_005
+    3300030: Cube_006
+    3300032: Cube_007
+    3300034: Cube_008
+    3300036: Cube_009
+    3300038: Cube_010
+    3300040: Cube_011
+    3300042: Cube_012
+    3300044: Cube_013
+    3300046: Cube_014
+    3300048: Cube_015
+    3300050: Cube_016
+    3300052: Cube_017
+    3300054: Cube_018
+    3300056: Cube_019
+    3300058: Cube_021
+    3300060: Cube_022
+    3300062: Cube_023
+    3300064: Cube_024
+    3300066: Cube_026
+    3300068: Cube_027
+    3300070: Cube_028
+    3300072: Cube_040
+    3300074: Cube_041
+    3300076: Cube_042
+    3300078: Cube_043
+    3300080: Cube_044
+    3300082: Cube_045
+    3300084: Cube_046
+    3300086: Cube_047
+    3300088: Cube_048
+    3300090: Cube_049
+    3300092: Cylinder
+    3300094: Cylinder_001
+    3300096: Cylinder_002
+    3300098: Cylinder_003
+    3300100: Cylinder_004
+    3300102: Cylinder_005
+    3300104: Cylinder_006
+    3300106: Cylinder_007
+    3300108: Cylinder_008
+    3300110: Cylinder_009
+    3300112: Cylinder_010
+    3300114: Cylinder_011
+    3300116: Cylinder_012
+    3300118: Cylinder_013
+    3300120: Cylinder_015
+    3300122: Cylinder_016
+    3300124: Cylinder_017
+    3300126: Cylinder_018
+    3300128: Cylinder_019
+    3300130: Cylinder_020
+    3300132: Cylinder_021
+    3300134: Cylinder_022
+    3300136: Cylinder_023
+    3300138: Cylinder_024
+    3300140: Cylinder_025
+    3300142: Cylinder_026
+    3300144: Cylinder_027
+    3300146: Cylinder_028
+    3300148: Cylinder_029
+    3300150: Cylinder_031
+    3300152: Cylinder_033
+    3300154: Cylinder_034
+    3300156: Cylinder_035
+    3300158: Cylinder_036
+    3300160: Cylinder_037
+    3300162: Cylinder_038
+    3300164: Cylinder_039
+    3300166: Cylinder_040
+    3300168: Cylinder_041
+    3300170: Cylinder_042
+    3300172: Cylinder_044
+    3300174: Cylinder_105
+    3300176: Cylinder_106
+    3300178: Cylinder_107
+    3300180: Cylinder_108
+    3300182: Cylinder_109
+    3300184: Cylinder_110
+    3300186: Cylinder_111
+    3300188: Cylinder_112
+    3300190: Cylinder_113
+    3300192: Cylinder_114
+    3300194: Cylinder_115
+    3300196: Cylinder_116
+    3300198: Cylinder_117
+    3300200: Cylinder_118
+    3300202: Cylinder_119
+    3300204: Cylinder_120
+    3300206: Cylinder_121
+    3300208: Cylinder_122
+    3300210: Cylinder_123
+    3300212: Plane
+    3300214: Plane_002
+    3300216: confederate
+    4300000: Cube_020
+    4300002: Plane_001
+    4300004: Plane_002
+    4300006: Plane
+    4300008: Cube_049
+    4300010: Cylinder_123
+    4300012: Cylinder_122
+    4300014: Cylinder_121
+    4300016: Cylinder_120
+    4300018: Cube_048
+    4300020: Cylinder_119
+    4300022: Cylinder_118
+    4300024: Cylinder_117
+    4300026: Cylinder_116
+    4300028: Cylinder_115
+    4300030: Cube_047
+    4300032: Cube_046
+    4300034: BezierCurve_007
+    4300036: BezierCurve_006
+    4300038: Cube_045
+    4300040: Cylinder_114
+    4300042: Cylinder_113
+    4300044: Cube_044
+    4300046: Cylinder_112
+    4300048: Cube_043
+    4300050: Cylinder_111
+    4300052: Cylinder_110
+    4300054: Circle_002
+    4300056: Cylinder_109
+    4300058: Cylinder_108
+    4300060: Cylinder_107
+    4300062: Cube_042
+    4300064: Cylinder_106
+    4300066: Cylinder_105
+    4300068: Cube_041
+    4300070: Cube_040
+    4300072: Cube_026
+    4300074: Cylinder_029
+    4300076: Cylinder_028
+    4300078: Cylinder_044
+    4300080: Cube_028
+    4300082: Cylinder_042
+    4300084: Cube_027
+    4300086: Cube_024
+    4300088: Cube_023
+    4300090: Cylinder_041
+    4300092: Cylinder_040
+    4300094: Cube_022
+    4300096: Cylinder_039
+    4300098: Cylinder_038
+    4300100: Cylinder_037
+    4300102: Cylinder_036
+    4300104: Cube_021
+    4300106: Cylinder_035
+    4300108: Cylinder_034
+    4300110: Cylinder_033
+    4300112: Cylinder_031
+    4300114: Cube_019
+    4300116: Cylinder_027
+    4300118: Cylinder_026
+    4300120: Cylinder_025
+    4300122: Cylinder_024
+    4300124: Cube_018
+    4300126: Cube_017
+    4300128: Cube_016
+    4300130: Cube_015
+    4300132: Cube_014
+    4300134: BezierCurve_003
+    4300136: BezierCurve_002
+    4300138: Cube_013
+    4300140: Cylinder_023
+    4300142: Cylinder_022
+    4300144: Cylinder_021
+    4300146: Cylinder_020
+    4300148: Cube_012
+    4300150: Cylinder_019
+    4300152: Cube_010
+    4300154: Cylinder_018
+    4300156: Cylinder_017
+    4300158: Cylinder_016
+    4300160: Cube_011
+    4300162: Cylinder_015
+    4300164: Cube_009
+    4300166: Cylinder_013
+    4300168: Cylinder_012
+    4300170: Cylinder_011
+    4300172: Cylinder_010
+    4300174: Cube_008
+    4300176: BezierCurve_001
+    4300178: BezierCurve
+    4300180: Cube_007
+    4300182: Cube_006
+    4300184: Cube_003
+    4300186: Cube_005
+    4300188: Cube_004
+    4300190: Cylinder_002
+    4300192: Cylinder_009
+    4300194: Cylinder_008
+    4300196: Cylinder_007
+    4300198: Cube_002
+    4300200: Cylinder_006
+    4300202: Cube_001
+    4300204: Cylinder_005
+    4300206: Cube
+    4300208: Cylinder_004
+    4300210: Cylinder_003
+    4300212: Cylinder_001
+    4300214: Cylinder
+    4300216: confMatSetup
+    4300218: confederate
+    4300220: Cylinder_032
+    7400000: Default Take
+    7400002: centre
+    7400004: death
+    7400006: death2
+    7400008: LeftHard
+    7400010: LeftMedium
+    7400012: LeftSoft
+    7400014: RightHard
+    7400016: RightMedium
+    7400018: RightSoft
+    7400020: Still
+    7400022: stumble1_1
+    7400024: wheelSpin
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube_020
+    13700002: Plane_001
+    13700004: confederate
+    13700006: confMatSetup
+    13700008: Cylinder_032
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: centre
+      takeName: centre
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: death
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death2
+      takeName: death2
+      firstFrame: -1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftHard
+      takeName: LeftHard
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftMedium
+      takeName: LeftMedium
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftSoft
+      takeName: LeftSoft
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RightHard
+      takeName: RightHard
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RightMedium
+      takeName: RightMedium
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RightSoft
+      takeName: RightSoft
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Still
+      takeName: Still
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: stumble1_1
+      takeName: stumble1_1
+      firstFrame: -1
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: wheelSpin
+      takeName: wheelSpin
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikeArmature
+        weight: 1
+      - path: bikeArmature/All
+        weight: 1
+      - path: bikeArmature/All/backWheel
+        weight: 1
+      - path: bikeArmature/All/body
+        weight: 1
+      - path: bikeArmature/All/front
+        weight: 1
+      - path: bikeArmature/All/front/frontWheel
+        weight: 1
+      - path: bikeArmature/Camera
+        weight: 1
+      - path: confederate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 32121b0dd1d38a240b44d27bc04a8dcc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: obstacle_019
+    100002: obstacle_020
+    100004: obstacle_021
+    100006: obstacle_022
+    100008: obstacle_023
+    100010: obstacle_024
+    100012: obstacle_025
+    100014: obstacle_026
+    100016: obstacle_027
+    100018: obstacle_028
+    100020: obstacle_029
+    100022: obstacle_030
+    100024: obstacle_031
+    100026: obstacle_032
+    100028: obstacle_033
+    100030: //RootNode
+    400000: obstacle_019
+    400002: obstacle_020
+    400004: obstacle_021
+    400006: obstacle_022
+    400008: obstacle_023
+    400010: obstacle_024
+    400012: obstacle_025
+    400014: obstacle_026
+    400016: obstacle_027
+    400018: obstacle_028
+    400020: obstacle_029
+    400022: obstacle_030
+    400024: obstacle_031
+    400026: obstacle_032
+    400028: obstacle_033
+    400030: //RootNode
+    2300000: obstacle_019
+    2300002: obstacle_020
+    2300004: obstacle_021
+    2300006: obstacle_022
+    2300008: obstacle_023
+    2300010: obstacle_024
+    2300012: obstacle_025
+    2300014: obstacle_026
+    2300016: obstacle_027
+    2300018: obstacle_028
+    2300020: obstacle_029
+    2300022: obstacle_030
+    2300024: obstacle_031
+    2300026: obstacle_032
+    2300028: obstacle_033
+    3300000: obstacle_019
+    3300002: obstacle_020
+    3300004: obstacle_021
+    3300006: obstacle_022
+    3300008: obstacle_023
+    3300010: obstacle_024
+    3300012: obstacle_025
+    3300014: obstacle_026
+    3300016: obstacle_027
+    3300018: obstacle_028
+    3300020: obstacle_029
+    3300022: obstacle_030
+    3300024: obstacle_031
+    3300026: obstacle_032
+    3300028: obstacle_033
+    4300000: obstacle_033
+    4300002: obstacle_032
+    4300004: obstacle_031
+    4300006: obstacle_030
+    4300008: obstacle_029
+    4300010: obstacle_028
+    4300012: obstacle_027
+    4300014: obstacle_026
+    4300016: obstacle_025
+    4300018: obstacle_024
+    4300020: obstacle_023
+    4300022: obstacle_022
+    4300024: obstacle_021
+    4300026: obstacle_020
+    4300028: obstacle_019
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

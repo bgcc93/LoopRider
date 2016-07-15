@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: ca8af9ec53dec6646aeab68fc4fa9bd4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: objSpawn
+    100002: objSpawn.001
+    100004: objSpawn.002
+    100006: objSpawn.003
+    100008: objSpawn.004
+    100010: objSpawn.005
+    100012: objSpawn.006
+    100014: objSpawn.007
+    100016: objSpawn.008
+    100018: objSpawn.009
+    100020: objSpawn.010
+    100022: objSpawn.011
+    100024: objSpawn.012
+    100026: objSpawn.013
+    100028: objSpawn.014
+    100030: objSpawn.015
+    100032: //RootNode
+    400000: objSpawn
+    400002: objSpawn.001
+    400004: objSpawn.002
+    400006: objSpawn.003
+    400008: objSpawn.004
+    400010: objSpawn.005
+    400012: objSpawn.006
+    400014: objSpawn.007
+    400016: objSpawn.008
+    400018: objSpawn.009
+    400020: objSpawn.010
+    400022: objSpawn.011
+    400024: objSpawn.012
+    400026: objSpawn.013
+    400028: objSpawn.014
+    400030: objSpawn.015
+    400032: //RootNode
+    2300000: objSpawn
+    2300002: objSpawn.001
+    2300004: objSpawn.002
+    2300006: objSpawn.003
+    2300008: objSpawn.004
+    2300010: objSpawn.005
+    2300012: objSpawn.006
+    2300014: objSpawn.007
+    2300016: objSpawn.008
+    2300018: objSpawn.009
+    2300020: objSpawn.010
+    2300022: objSpawn.011
+    2300024: objSpawn.012
+    2300026: objSpawn.013
+    2300028: objSpawn.014
+    2300030: objSpawn.015
+    3300000: objSpawn
+    3300002: objSpawn.001
+    3300004: objSpawn.002
+    3300006: objSpawn.003
+    3300008: objSpawn.004
+    3300010: objSpawn.005
+    3300012: objSpawn.006
+    3300014: objSpawn.007
+    3300016: objSpawn.008
+    3300018: objSpawn.009
+    3300020: objSpawn.010
+    3300022: objSpawn.011
+    3300024: objSpawn.012
+    3300026: objSpawn.013
+    3300028: objSpawn.014
+    3300030: objSpawn.015
+    4300000: objSpawn.015
+    4300002: objSpawn.014
+    4300004: objSpawn.013
+    4300006: objSpawn.012
+    4300008: objSpawn.011
+    4300010: objSpawn.010
+    4300012: objSpawn.009
+    4300014: objSpawn.008
+    4300016: objSpawn.007
+    4300018: objSpawn.006
+    4300020: objSpawn.005
+    4300022: objSpawn.004
+    4300024: objSpawn.003
+    4300026: objSpawn.002
+    4300028: objSpawn.001
+    4300030: objSpawn
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
