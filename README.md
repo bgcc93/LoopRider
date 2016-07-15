@@ -1,3 +1,4 @@
-<h1>LOOP RIDER</h1>
+<h1>Loop Rider</h1>
 
-using Unit 4.6b
+using <a href="http://unity3d.com/pt/unity/whats-new/unity-4.6.8">Unity 4.6</a>
+
